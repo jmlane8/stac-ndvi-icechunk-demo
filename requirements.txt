@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy
+pandas
+xarray>=2025.1.1       # for full Icechunk + xarray integration
+dask[complete]
+
+# STAC + Earth Search
+pystac-client
+stackstac
+
+# Zarr + storage
+zarr>=3.0.0
+fsspec
+s3fs
+
+# Icechunk (transactional Zarr storage)
+icechunk
+
+# Geo / raster helpers for NDVI plots
+rasterio
+rioxarray
+
+# Plotting / notebooks
+matplotlib
+jupyterlab
+ipykernel
