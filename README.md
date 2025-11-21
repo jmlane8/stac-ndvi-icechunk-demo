@@ -1,4 +1,6 @@
-# P2 — STAC → NDVI → Icechunk (Versioned Geospatial Data Pipeline)
+#  STAC → NDVI → Icechunk (Versioned Geospatial Data Pipeline)
+
+README written with the help of ChatGPT-5. This project was created with the help of ChatGPT-5, Gemini and Copilot.
 
 This project explores an end-to-end workflow for working with modern cloud-native geospatial data:
 
